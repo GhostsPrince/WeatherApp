@@ -1,0 +1,43 @@
+body{
+    background: #ffdd59;
+    margin: 0;
+    padding: 0;
+}
+.display-2 {
+    text-align: center;
+}
+.jumbotron{
+    background:#d2dae2;
+}
+#form{
+    position: absolute;
+    height: 50px !important;
+    width: 450px !important;
+    text-align: center !important;
+    margin-left: 320px !important;
+    background: #d2dae2;
+    border-radius: 40px;
+    
+}
+
+#btn{
+    margin-top:75px !important;
+    margin-left:476px !important;
+    width: 150px;
+    margin-bottom:25px !important;
+    border-radius: 40px;
+    background: #d2dae2
+    
+}
+
+.display-3{
+    text-align: center;
+}
+
+img{
+    margin-top:25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
